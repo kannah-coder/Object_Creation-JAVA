@@ -75,4 +75,5 @@ You can create multiple cars (objects) from the same class.
 ## 🧱 Garbage Collection
 If an object no longer has any reference pointing to it, Java automatically removes it using the **Garbage Collector** to free up memory.
 
- 
+
+## I provided another file for object creation by accesing it to method (Student.java)
