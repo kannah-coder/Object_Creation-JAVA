@@ -77,3 +77,13 @@ If an object no longer has any reference pointing to it, Java automatically remo
 
 
 ## I provided another file for object creation by accesing it to method (Student.java)
+🧑‍🎓 Student Class in Java
+📘 Overview
+
+This project demonstrates object creation, methods, and basic OOP concepts in Java using a simple Student class.
+Each Student object stores and displays information like name, marks, and section, and includes logic for checking pass/fail and calculating grades.
+🧩 Features
+✨ Demonstrates class and object creation
+🧠 Includes methods for displaying info, pass check, and grade calculation
+🔁 Shows multiple object usage
+💡 Great for beginners learning OOP fundamentals
